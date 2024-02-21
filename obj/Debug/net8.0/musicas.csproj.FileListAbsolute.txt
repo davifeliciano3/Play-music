@@ -1,0 +1,14 @@
+C:\Users\Davi\Desktop\musicas\bin\Debug\net8.0\musicas.exe
+C:\Users\Davi\Desktop\musicas\bin\Debug\net8.0\musicas.deps.json
+C:\Users\Davi\Desktop\musicas\bin\Debug\net8.0\musicas.runtimeconfig.json
+C:\Users\Davi\Desktop\musicas\bin\Debug\net8.0\musicas.dll
+C:\Users\Davi\Desktop\musicas\bin\Debug\net8.0\musicas.pdb
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.AssemblyInfo.cs
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.dll
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\refint\musicas.dll
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.pdb
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.genruntimeconfig.cache
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\ref\musicas.dll
