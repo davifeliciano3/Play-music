@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ScreenSound",
+    "\\ScreenSound\\Modelos"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\ScreenSound\\Modelos\\Banda.cs",
   "PreviewInSolutionExplorer": false
 }

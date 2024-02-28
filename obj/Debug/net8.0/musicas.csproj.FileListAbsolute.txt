@@ -12,3 +12,4 @@ C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\refint\musicas.dll
 C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.pdb
 C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.genruntimeconfig.cache
 C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\ref\musicas.dll
+C:\Users\Davi\Desktop\musicas\obj\Debug\net8.0\musicas.sourcelink.json
